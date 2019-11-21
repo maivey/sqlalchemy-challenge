@@ -1,6 +1,8 @@
 # sqlalchemy-challenge
 You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the are
 
+- - -
+
 ## Step 1 - Climate Analysis and Exploration
 
 Used Python and SQLAlchemy to do basic climate analysis and data exploration of the provided climate database. All of the following analysis are completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
@@ -80,6 +82,7 @@ Now that I have completed the initial analysis, design a Flask API based on the 
 
   * When given the start and the end date, calculate the `TMIN`, `TAVG`, and `TMAX` for dates between the start and end date inclusive.
 
+- - -
 
 ### Other Analyses
 
